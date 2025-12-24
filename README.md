@@ -35,7 +35,7 @@ map.html
             <font color="red"><b>Neyveli</b></font>
         </h1>
         <h3 align="center">
-            <font color="blue"><b>RAGUL D(25018165)</b></font>
+            <font color="blue"><b>VARUNA R(25004445)</b></font>
         </h3>
         <center>
             <img src="Screenshot 2025-09-30 134929.png" usemap="#MyTown"height=600 width="1450">
