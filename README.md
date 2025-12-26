@@ -23,6 +23,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 # CODE
+~~~
 map.html
 <html>
     <head>
@@ -196,6 +197,7 @@ nabs.html
   </center>
 </body>
 </html>
+~~~
 # OUTPUT
 <img width="1019" height="446" alt="image" src="https://github.com/user-attachments/assets/173afa99-167e-48aa-ab79-78810ec3b189" />
 <img width="1009" height="569" alt="image" src="https://github.com/user-attachments/assets/8193268f-dba1-4269-b105-32bca50f1ebc" />
